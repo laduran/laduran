@@ -10,7 +10,7 @@
 - I'll soon be working part time on a secret, hush-hush project. (Can't talk about it, private Git and all)
 - When I'm not working I am teaching myself Machine Learning with Coursera courses taught by [Andrew Ng](https://www.andrewng.org/)
 - Starting In January, I will be taking a series of [Machine Learning courses](https://www.pce.uw.edu/certificates/machine-learning)
-  from the [Univerity of Washington](https://www.uw.edu)
+  from the [Univerity of Washington](https://www.uw.edu) (PS: I lost my copy of that book ages ago and if anyone wanted to gift me a copy of it, I'd be most grateful!)
 
 - Once my courses are completed I would like to work on something that makes use of my Machine Learning Education
 
