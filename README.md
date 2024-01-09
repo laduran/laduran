@@ -6,11 +6,10 @@
   - And before that I worked at [Intel](https://www.intel.com)
   - I studied Computer Science in a MS program at [University of California Santa Cruz](https://www.ucsc.edu)
   - And I did Bachelor's degree also at UCSC in Applied Mathematics.
-  - At UCSC, I did a lot of C programming using the book [Numerical Recipes in C](https://www.amazon.com/Numerical-Recipes-Scientific-Computing-Second/dp/0521431085)
-- I'll soon be working part time on a secret, hush-hush project. (Can't talk about it, private Git and all)
+  - At UCSC, I did a lot of C programming using the book [Numerical Recipes in C](https://www.amazon.com/Numerical-Recipes-Scientific-Computing-Second/dp/0521431085) (PS: I lost my copy of that book ages ago and if anyone wanted to gift me a copy of it, I'd be most grateful!)
 - When I'm not working I am teaching myself Machine Learning with Coursera courses taught by [Andrew Ng](https://www.andrewng.org/)
 - Starting In January, I will be taking a series of [Machine Learning courses](https://www.pce.uw.edu/certificates/machine-learning)
-  from the [Univerity of Washington](https://www.uw.edu) (PS: I lost my copy of that book ages ago and if anyone wanted to gift me a copy of it, I'd be most grateful!)
+  from the [Univerity of Washington](https://www.uw.edu) 
 
 - ⚡ Fun facts:
   - I like to play classical/flamenco 🎸
