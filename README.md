@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently on a career break (Sept 2023) During this break I am doing part-time consulting. 
-  - I am also taking [Machine Learning courses](https://www.pce.uw.edu/certificates/machine-learning) from the [Univerity of Washington](https://www.uw.edu) and taking Machine Learning courses from 
+  - I am also taking [Machine Learning courses](https://www.pce.uw.edu/certificates/machine-learning) from the [Univerity of Washington](https://www.uw.edu) and taking Machine Learning courses from Coursera.org
   - Before my career break I was working for [Intel](https://github.com/intel) doing client platform simulation using [Simics](https://www.intel.com/content/www/us/en/developer/articles/tool/simics-simulator.html)
   - Before Intel I was working at PacificStar Communications (a division of Curtiss-Wright) on [IQ-Core](https://www.curtisswrightds.com/products/networking-communications/pacstar/iq-core-software)
   - Before PacStar I worked at [Banfield](https://www.banfield.com) and learned a lot about distributed systems, SQL, Angular, and Microsoft Azure
