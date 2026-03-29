@@ -22,7 +22,7 @@
   - Anything Machine Learning related
   - Ways to upskill my usage of AI assistants. I am mighty impressed with Claude Code but I think I could be using it more effectively
   - Currently brainstorming with a couple friends from my ML course to apply our ML skills to a real-world problem. (a self-imposed capstone of sorts)
-  - Email me at: [louis@sylvansoftworks.com](mailto:louis.duran@gmail.com)
+  - Email me at: [louis.duran@gmail.com](mailto:louis.duran@gmail.com)
 <!--
 **laduran/laduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
