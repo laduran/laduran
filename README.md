@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Last year (2023) I left a full-time job with Intel to focus on building my [consulting business](www.sylvansoftworks.com) and enhance my skills in Machine Learning
+- 🔭 In 2023 I left a full-time job with Intel to focus on building my [consulting business](www.sylvansoftworks.com) and enhance my skills in Machine Learning
   - I recently completed this course in [Machine Learning courses](https://www.pce.uw.edu/certificates/machine-learning) from the [Univerity of Washington](https://www.uw.edu) as well as Coursera ML classes
   - Before my career break I was working for [Intel](https://github.com/intel) doing client platform simulation using [Simics](https://www.intel.com/content/www/us/en/developer/articles/tool/simics-simulator.html)
   - Before Intel I was working at PacificStar Communications (a division of Curtiss-Wright) on [IQ-Core](https://www.curtisswrightds.com/products/networking-communications/pacstar/iq-core-software)
@@ -19,8 +19,8 @@
 
 - 👯 I’m looking to collaborate on:
   - Anything Machine Learning related
+  - Ways to upskill my usage of AI assistants. I am mighty impressed with Claude Code but I think I could be using it more effectively
   - Currently working with a friend on a ML project to detect fake audio. (currently we are just in the research phase as of Oct 2024)
-  - MAANG interviewing techniques (you know what I mean)
   - Email me at: [louis@sylvansoftworks.com](mailto:louis@sylvansoftworks.com)
 <!--
 **laduran/laduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
