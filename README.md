@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 In 2023 I left a full-time job with Intel to focus on building my [consulting business](www.sylvansoftworks.com) and enhance my skills in Machine Learning
-  - From January 2026 to August 2026 I worked at [Envoy Inc.](https://www.envoy.com) This was my first real experience working in a SF startup culture. I learned so much hear about organizations and the new way of coding (agents, loops, compound engineering). However the actual programming languages themselves were a bit outdated ( [Kotlin](https://kotlinlang.org/) being the exception. )
+  - Starting in January 2026 I work at [Envoy Inc.](https://www.envoy.com) This was my first real experience working in a SF startup culture. I have already learned so much about organizations and the new way of coding (agents, "Ralph" loops, compound engineering). However the actual programming languages themselves were a bit outdated ( [Kotlin](https://kotlinlang.org/) being the exception. )
   - In 2025 I worked for [Alaska Airlines](https://www.alaskaair.com) in their CSA Mobile team. The apps we created help thousands of airport agents do their jobs more efficiently.
   - In 2024 I completed this course in [Machine Learning courses](https://www.pce.uw.edu/certificates/machine-learning) from the [Univerity of Washington](https://www.uw.edu) as well as Coursera ML classes
   - Before my career break I was working for [Intel](https://github.com/intel) doing client platform simulation using [Simics](https://www.intel.com/content/www/us/en/developer/articles/tool/simics-simulator.html)
